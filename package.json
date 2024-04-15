@@ -1,6 +1,6 @@
 {
-   "name": "svelte-light-carousel",
-   "version": "1.0.2",
+   "name": "@ahaeflig/svelte-light-carousel",
+   "version": "1.0.6",
    "description": "A lightweight carousel component for Svelte",
    "license": "MIT",
    "repository": "https://github.com/beynar/svelte-light-carousel",
